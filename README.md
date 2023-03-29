@@ -2,7 +2,7 @@ theScore QA Automation Challenge (Mobile)
 
 This file contains the instructions for setting up and running your submission from the command line on a macOS.
 
-You can find the Test Results in the test report link here: file:file:///Users/neelakshitaldar/Documents/Eclipse/Appium/test-output/index.html
+You can find the Test Results in the test report link here: file:///Users/neelakshitaldar/Documents/Eclipse/Appium/test-output/index.html
 
 
 Setup Instructions
