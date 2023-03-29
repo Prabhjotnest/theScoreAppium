@@ -98,8 +98,8 @@ To run the test
 Submitting on Github Repository
 1. Proceed to Github.com and create a new repository by clicking on Repositories —> New
 2. Select Public —> Create Repository (theScoreAppium) --> Select ReadMe file 
-3. Make sure you are in Appium directory then Open Terminal and type command - git config --global user.name "<github username>" and hit enter
-4. Type command - git config --global user.email "<github emailaddress>"
+3. Make sure you are in Appium directory then Open Terminal and type command - git config --global user.name "(github username)" and hit enter
+4. Type command - git config --global user.email "(github emailaddress)"
 5. To initialize your file as Git repository type command - git init 
 6. Add files to staging by typinmg command - git add *
 7. To check status of files which have been added type command - git status 
